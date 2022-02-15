@@ -13,7 +13,7 @@ https://github.com/kashyap412/Python_Port_Scanner.git
 
 # Navigate to the folder and install requirements
 
-cd Python_Network_Scan
+cd Python_Port_Scanner
 pip install -r requirements.txt
 
 # Syntax
